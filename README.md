@@ -29,12 +29,7 @@ CrackCam is a deep-learning-based web application that is capable of detecting C
 
 ## Interface
 
-
-<img width="1440" alt="Screenshot 2023-07-11 at 3 03 14 PM" src="https://github.com/amanullahmd12/CrackCam/assets/92320933/da2be66c-6f92-447f-87db-2774d47bce62">
-
-<img width="1440" alt="Screenshot 2023-07-11 at 3 04 34 PM" src="https://github.com/amanullahmd12/CrackCam/assets/92320933/da401839-acef-4b5b-b056-627eb4cbb3ff">
-
-<img width="1440" alt="Screenshot 2023-07-11 at 3 04 55 PM" src="https://github.com/amanullahmd12/CrackCam/assets/92320933/caa00d5d-f952-400a-8ae4-efbe5773faef">
-
-
-
+# crack-cam-road-crack-prediction-
+![SevereG4 (17)](https://github.com/sarthakkalra216/crack-cam-road-crack-prediction-/assets/102536154/1d08fcc1-a203-48d3-8624-6420e5be2315)
+![image](https://github.com/sarthakkalra216/crack-cam-road-crack-prediction-/assets/102536154/71b3a628-236d-4520-a445-6a4fec680af1)
+![image](https://github.com/sarthakkalra216/crack-cam-road-crack-prediction-/assets/102536154/ddd9af67-00cd-4bd3-8dbb-d79dbea5829b)
